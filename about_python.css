@@ -1,0 +1,142 @@
+#container{
+    width: 970px;
+    margin: auto;
+    background-color: #245076;
+    vertical-align: top;
+}
+
+#container2{
+    background-color: #FFFFFF;
+    width: 980px;
+    height: 315px;
+}
+#header{
+    width: 970px;
+    padding: 10px;
+    vertical-align: top;
+}
+#python_img{
+    width: 350px;
+    height: 93px;
+    display: inline-block;
+    vertical-align: top;
+}
+
+#search_box{
+    width: 300px;
+    height: 45px;
+    display: inline-block;
+    background-color:#444444;
+    vertical-align: top;
+    display: inline-block;
+    padding: 5px;
+    border-radius: 20px;
+    text-align: center;
+    margin-left: 286px;
+}
+
+#search_box2{
+    width: 300px;
+    height: 85px;
+    display: inline-block;
+    vertical-align: top;
+    background-color:#991212;
+    margin-left: 350px;
+}
+
+#navagation{
+    width: 930px;
+    text-align: center;
+    margin: auto;
+    margin-bottom: 20px;
+    border-radius: 12px;
+    background-color: #447DAD;
+}
+.navagation2{
+    width: 120px;
+    height: 30px;
+    display: inline-block;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px;
+    padding: 5px 5px;
+    color: #FFFFFF;
+}
+
+#content{
+    width: 970px;
+    height: 315px;
+}
+#list{
+    width: 400px;
+    height: 270px;
+    text-align: center;
+    color: white;
+    text-decoration: underline;
+    display: inline-block;
+    vertical-align: top;
+    font-family: Arial, Helvetica, sans-serif;
+}
+ul {list-style: none}
+
+li::before {
+    content: "•";
+    color: yellow;
+    display: inline-block;
+    width: 1em;
+    margin-left: -1em
+}
+#text{
+    width: 500px;
+    height: 310px;
+    text-align: center;
+    display: inline-block;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+}
+
+hr{
+    border-color: #73A7D5; 
+    border-width: 2px;
+}
+    #getting_started{
+        width: 400px;
+        height: 270px;
+        vertical-align: top;
+        text-align: center;
+        margin: auto;
+        padding: 10px 50px;
+        box-sizing: border-box;
+        display: inline-block;
+    }
+    #applications{
+        width: 500px;
+        height: 270px;
+        vertical-align: top;
+        text-align: center;
+        margin: auto;
+        padding: 10px 50px;
+        box-sizing: border-box;
+        display: inline-block;
+    }
+    span{
+        color: aquamarine;
+    }
+
+    .footer_text{
+        display: inline-block;
+        font-size: large;
+        margin: 20px;
+    }
+    .copy{
+        font-size: small;
+    }
+    #footer{
+        width: 990px;
+        height: 90px;
+        margin: auto;
+        padding-top: 20px;
+        text-align: center;
+        background-color: #295C87;
+    }
